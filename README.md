@@ -15,6 +15,9 @@ My dream is to be able to work with cool web technologies, while travelling arou
 * PlantUML
 * Python
 * HTML, CSS and JavaScript
+* SQL
+* PostgreSQL
+* DBeaver
 
 ## What I'm currently working on:
 
@@ -22,4 +25,3 @@ My dream is to be able to work with cool web technologies, while travelling arou
 * Reading Head First Design Patterns, learning about common methodologies to make code flexible and extensible.
 * A blog page as my first project for my portfolio, using HTML and CSS 
 * Advent of Code (though less often than the others listed above, especially now that I've solved most of the easier problems)
-  
