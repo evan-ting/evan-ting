@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at the University of Otago, New Zealand. Also the Team Lead of a software team in one of the papers I'm taking right now.
 
-My dream is to be able to work with cool web technologies, while travelling around the world!
+My dream for the future is to work with cool web technologies and go travelling around the world!
 
 ## Technologies I'm familiar with:
 
