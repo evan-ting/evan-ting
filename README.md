@@ -19,7 +19,7 @@ My dream is to be able to work with cool web technologies, while travelling arou
 * PostgreSQL
 * DBeaver
 * GitLab
-* Bash
+* (Git) Bash
 
 ## What I'm currently working on:
 
