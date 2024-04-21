@@ -18,10 +18,12 @@ My dream is to be able to work with cool web technologies, while travelling arou
 * SQL
 * PostgreSQL
 * DBeaver
+* GitLab
+* Bash
 
 ## What I'm currently working on:
 
 * The Odin Project's curriculum in web development, learning about HTML, CSS and JavaScript
 * Reading Head First Design Patterns, learning about common methodologies to make code flexible and extensible.
 * A blog page as my first project for my portfolio, using HTML and CSS 
-* Advent of Code (though less often than the others listed above, especially now that I've solved most of the easier problems)
+* Advent of Code (adding new solutions from time to time)
