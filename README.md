@@ -1,4 +1,4 @@
-# Heyo everyone, I'm Evan! 😎
+# Hey Everyone, I'm Evan! 😎
 
 I'm a Software Engineering student 🖥️⌨️🖱️ at the University of Otago, New Zealand. I was the Team Lead of my software team for a group project.
 
